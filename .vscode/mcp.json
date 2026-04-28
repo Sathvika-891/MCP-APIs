@@ -1,0 +1,15 @@
+{
+	"servers": {
+		"mcp-apis-server": {
+			"type": "http",
+			"url":"http://127.0.0.1:8001/mcp"
+			// "command": "poetry",
+			// "args": [
+			// 	"run",
+			// 	"python",
+			// 	"server.py"
+			// ]
+		}
+	},
+	"inputs": []
+}
